@@ -1,3 +1,10 @@
+/*
+     _~^~^~_
+ \) /  o o  \ (/
+   '_   ¬   _'
+   / '-----' \
+
+*/
 use minigrep::Config;
 use std::env;
 use std::process;
